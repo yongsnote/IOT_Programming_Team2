@@ -7,5 +7,5 @@
 ![image](https://github.com/yongsnote/IOT_Programming_Team2/assets/127083633/6e369f44-6f80-4ff6-bd34-358bb07426dc)
 
 ---
-#Flow Chart
+# Flow Chart
 ![image](https://github.com/yongsnote/IOT_Programming_Team2/assets/127083633/4e64a5d8-408a-4b22-a08b-3b1f2d224c64)
