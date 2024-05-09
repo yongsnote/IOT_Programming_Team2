@@ -8,8 +8,9 @@
 
 
 -----
-### 참고자료 :
-블랙잭 : https://namu.wiki/w/%EB%B8%94%EB%9E%99%EC%9E%AD(%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
+### 참고자료 ###
+
+블랙잭 : https://github.com/B31l/Smart4412Linux?tab=readme-ov-file#%EC%BD%94%EB%93%9C
 Snake game : https://github.com/jinwoo1225/SnakeGameWithSmart4412
 ---
 # Flow Chart
