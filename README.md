@@ -14,6 +14,8 @@
 
 [Snake game](https://github.com/jinwoo1225/SnakeGameWithSmart4412)
 
+[인디안포커 게임](https://github.com/JoHyeonGyeong/iot_indianPoker)
+
 ---
 # Flow Chart
 ![image](https://github.com/yongsnote/IOT_Programming_Team2/assets/127083633/4e64a5d8-408a-4b22-a08b-3b1f2d224c64)
