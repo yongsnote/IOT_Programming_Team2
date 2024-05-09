@@ -6,6 +6,11 @@
 
 ![image](https://github.com/yongsnote/IOT_Programming_Team2/assets/127083633/6e369f44-6f80-4ff6-bd34-358bb07426dc)
 
+
+-----
+### 참고자료 :
+블랙잭 : https://namu.wiki/w/%EB%B8%94%EB%9E%99%EC%9E%AD(%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
+Snake game : https://github.com/jinwoo1225/SnakeGameWithSmart4412
 ---
 # Flow Chart
 ![image](https://github.com/yongsnote/IOT_Programming_Team2/assets/127083633/4e64a5d8-408a-4b22-a08b-3b1f2d224c64)
