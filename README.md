@@ -10,9 +10,9 @@
 -----
 ### 참고자료 ###
 
-[블랙잭 :](https://github.com/B31l/Smart4412Linux?tab=readme-ov-file#%EC%BD%94%EB%93%9C)
+[블랙잭](https://github.com/B31l/Smart4412Linux?tab=readme-ov-file#%EC%BD%94%EB%93%9C)
 
-[Snake game :](https://github.com/jinwoo1225/SnakeGameWithSmart4412)
+[Snake game](https://github.com/jinwoo1225/SnakeGameWithSmart4412)
 
 ---
 # Flow Chart
